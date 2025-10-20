@@ -1,47 +1,27 @@
-# Glowlock Sensory Engine (GSE) 🌲✨
+# 🎛️ Glowlock Sensory Engine (GSE) 🌲✨  
+*A vibe dictionary for narrative worlds — by Glowlock Labs.*
 
-An ML-driven **vibe dictionary** that turns Glowlock’s sensory lore  
-(taste, feel, color, sound, smell) into embeddings for search,  
-prompt-gen, and visualization.
+---
 
-## ✨ Features
+## 🌿 Overview  
+The **Glowlock Sensory Engine (GSE)** is a machine learning–driven “vibe dictionary” that translates sensory storytelling into structured data.  
+Each Glowlock realm — **Moss Merry Way**, **Jingle Hoof**, **Dusk Hallows**, and beyond — is encoded through five sensory dimensions: **taste, feel, color, sound, and smell**.  
+
+Using text embeddings and similarity search, GSE allows users to describe a vibe (“buttery candlelight with cinnamon wind”) and retrieve matching realms, generate art prompts, or visualize the emotional terrain of Glowlock’s universe.
+
+---
+
+## ✨ Features  
 - Encode Glowlock realms (e.g., *Moss Merry Way*, *Jingle Hoof*, *Dusk Hallows*) into embeddings  
 - Free-text “describe a vibe” search (cosine similarity)  
 - Prompt scaffolds for art/video generation  
 - Streamlit demo app + Jupyter notebook workflow  
 
-## 🚀 Quickstart
+---
+
+## 🚀 Quickstart  
+
+### 1️⃣ Clone the repository  
 ```bash
-# clone
 git clone https://github.com/raemchilds/Glowlock-Sensory-Engine.git
 cd Glowlock-Sensory-Engine
-
-# optional: create a venv
-python3 -m venv venv && source venv/bin/activate
-
-# install deps
-pip3 install -r requirements.txt
-
-
-jupyter notebook
-ls -l README.md
-cat README.md | head -10
-
-ls -l README.md
-
-git add README.md
-
-git commit -m "Add README"
-
-git push
-
-cd ~/Desktop/glowlock-sensory-engine
-
-git add README.md
-git commit -m "Add README file"
-git push
-
-cd ~/Desktop/glowlock-sensory-engine
-
-git status
-
