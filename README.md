@@ -16,7 +16,7 @@ Using text embeddings and similarity search, GSE allows users to describe a *vib
 
 The Glowlock Sensory Engine is an **interactive prototype** that transforms narrative vibes into computational form.  
 
-🔗 **Live Demo:** [View the App on Streamlit →](https://glowlock-sensory-engine.streamlit.app)  
+🔗 **Live Demo:** [View the App on Streamlit →](https://glowlock-sensory-engine-ckk2hdzmev9rpsdsl2x3sr.streamlit.app/)  
 📂 **Source Code:** [View on GitHub →](https://github.com/raemchilds/Glowlock-Sensory-Engine)  
 
 > If the app isn’t live yet, you can still explore it locally by following the Quickstart instructions below.
